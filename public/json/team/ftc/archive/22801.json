@@ -1,0 +1,55 @@
+{
+  "22801": [
+    {
+      "year": 2023,
+      "designs": [
+        {
+          "name": "Robot CAD 2023",
+          "description": "A detailed 3D design model of the robot, created using CAD software, with focus on structure and component placement.",
+          "link": "https://example.com/robot-cad-2023"
+        },
+        {
+          "name": "Chassis Model",
+          "description": "The structural framework of the robot, designed for stability and strength, supporting all other components.",
+          "link": "https://example.com/chassis-model"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Planning Document 2023",
+          "description": "Document outlining the project timeline, task distribution, and overall strategy for the robot design and competition preparation.",
+          "link": "https://example.com/planning-document-2023"
+        },
+        {
+          "title": "Technical Notes",
+          "description": "Technical details about the robot’s components, wiring, and assembly instructions.",
+          "link": "https://example.com/technical-notes"
+        }
+      ],
+      "websiteImages": [
+        {
+          "imageUrl": "/images/2023-1.png",
+          "description": "Initial CAD model render showing the overall design of the robot.",
+          "link": "https://example.com/robot-cad-image-2023-1"
+        },
+        {
+          "imageUrl": "/images/2023-2.png",
+          "description": "Assembly overview of the chassis model with key components placed.",
+          "link": "https://example.com/robot-cad-image-2023-2"
+        }
+      ],
+      "codes": [
+        {
+          "name": "Autonomous Program",
+          "description": "The autonomous mode code that allows the robot to complete tasks without human intervention, including obstacle detection and navigation.",
+          "link": "https://example.com/autonomous-program"
+        },
+        {
+          "name": "TeleOp Program",
+          "description": "The control system code for manual operation during the competition, enabling real-time control of the robot.",
+          "link": "https://example.com/teleop-program"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+    "ftc_manual_books": [
+      {
+        "season": "2024-2025",
+        "title": "Into the Deep",
+        "description": "A thrilling underwater exploration-themed robotics challenge.",
+        "preview_picture": "https://example.com/images/2024-2025-preview.jpg",
+        "manuals": [
+          {
+            "title": "Competition Manual",
+            "description": "The official guide for the 2024-2025 Into the Deep challenge.",
+            "preview_picture": "https://example.com/images/2024-2025-manual-preview.jpg",
+            "download_link": "https://resources.firstrobotics.ru/competition-manual.pdf"
+          }
+        ]
+      },
+      {
+        "season": "2023-2024",
+        "title": "Center Stage",
+        "description": "Robotics takes the spotlight in this performance-driven challenge.",
+        "preview_picture": "https://example.com/images/2023-2024-preview.jpg",
+        "manuals": [
+          {
+            "title": "Game Manual Part 1",
+            "description": "The first part of the guide for the 2023-2024 Center Stage challenge.",
+            "preview_picture": "https://example.com/images/2023-2024-manual1-preview.jpg",
+            "download_link": "https://resources.firstrobotics.ru/2024/game-manual-part-1.pdf"
+          },
+          {
+            "title": "Game Manual Part 2",
+            "description": "The second part of the guide for the 2023-2024 Center Stage challenge.",
+            "preview_picture": "https://example.com/images/2023-2024-manual2-preview.jpg",
+            "download_link": "https://resources.firstrobotics.ru/2024/game-manual-part-2.pdf"
+          }
+        ]
+      },
+      {
+        "season": "2022-2023",
+        "title": "Power Play",
+        "description": "A high-energy robotics competition centered on resource management.",
+        "preview_picture": "https://example.com/images/2022-2023-preview.jpg",
+        "manuals": []
+      },
+      {
+        "season": "2021-2022",
+        "title": "Freight Frenzy",
+        "description": "Logistics and transport come to life in this dynamic robotics challenge.",
+        "preview_picture": "https://example.com/images/2021-2022-preview.jpg",
+        "manuals": []
+      },
+      {
+        "season": "2020-2021",
+        "title": "Ultimate Goal",
+        "description": "Teams aim for greatness in this goal-oriented robotics challenge.",
+        "preview_picture": "https://example.com/images/2020-2021-preview.jpg",
+        "manuals": []
+      },
+      {
+        "season": "2019-2020",
+        "title": "Skystone",
+        "description": "Building and stacking take center stage in this architectural challenge.",
+        "preview_picture": "https://example.com/images/2019-2020-preview.jpg",
+        "manuals": []
+      },
+      {
+        "season": "2018-2019",
+        "title": "Rover Ruckus",
+        "description": "A space exploration-themed challenge for aspiring astronauts.",
+        "preview_picture": "https://example.com/images/2018-2019-preview.jpg",
+        "manuals": []
+      },
+      {
+        "season": "2017-2018",
+        "title": "Relic Recovery",
+        "description": "Teams recover ancient artifacts in this exciting robotics adventure.",
+        "preview_picture": "https://example.com/images/2017-2018-preview.jpg",
+        "manuals": []
+      },
+      {
+        "season": "2016-2017",
+        "title": "Velocity Vortex",
+        "description": "High-speed action awaits in this vortex-themed robotics game.",
+        "preview_picture": "https://example.com/images/2016-2017-preview.jpg",
+        "manuals": []
+      }
+    ]
+  }
+  

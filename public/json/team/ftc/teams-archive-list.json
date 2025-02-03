@@ -1,0 +1,17 @@
+[
+    {
+      "teamName": "Team Bolt.m3",
+      "teamNumber": "22801",
+      "yearsContributed": 4,
+      "yearRange": "2021-2024",
+      "archiveItems": ["Designs", "Documents", "Code", "Website Images"]
+    },
+    {
+      "teamName": "Team XYZ",
+      "teamNumber": "12345",
+      "yearsContributed": 3,
+      "yearRange": "2020-2023",
+      "archiveItems": ["Code", "Designs", "Manuals"]
+    }
+  ]
+  
