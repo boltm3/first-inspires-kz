@@ -1,6 +1,6 @@
 import { useState, ChangeEvent, FormEvent } from 'react';
 import { Mail, MapPin, Phone } from 'lucide-react';
-import insertContact from '@/api/addContact';
+import insertContact from '@/api/AddContact';
 
 interface Contact {
   name: string;
