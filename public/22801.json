@@ -1,0 +1,86 @@
+[
+    {
+      "year": 2024,
+      "codes": [
+        {
+          "title": "GM0 Kazakhstan",
+          "url": "https://github.com/boltm3/gm0-kz",
+          "description": "FTC GM0 нұсқаулығының қазақша аудармасы."
+        },
+        {
+          "title": "First inspires kz",
+          "url": "https://github.com/boltm3/first-inspires-kz",
+          "description": "FIRST Kazakhstan ресурстары."
+        },
+        {
+          "title": "Boltm3 website",
+          "url": "https://github.com/boltm3/boltm3.github.io",
+          "description": "Ресми команда сайты."
+        }
+      ],
+      "website": [
+        {
+          "title": "firstinspireskz",
+          "preview_image": "https://first.image.firstinspireskz.org/archive-22801-2024-website1.jpg",
+          "url": "https://firstinspireskz.org/",
+          "description": ""
+        },
+        {
+          "title": "gm0 kz",
+          "preview_image": "https://first.image.firstinspireskz.org/archive-22801-2024-website2.jpg",
+          "url": "https://gm0.firstinspireskz.org/",
+          "description": ""
+        },
+        {
+          "title": "команда boltm3 сайты",
+          "preview_image": "https://cdn.britannica.com/39/226539-050-D21D7721/Portrait-of-a-cat-with-whiskers-visible.jpg",
+          "url": "https://boltm3.firstinspireskz.org/",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "codes": [
+        {
+          "title": "Autonomous",
+          "url": "https://github.com/boltm3/archive/blob/main/2023/code/Autonomous.java",
+          "description": ""
+        },
+        {
+          "title": "TeleOP",
+          "url": "https://github.com/boltm3/archive/blob/main/2023/code/TeleOP.java",
+          "description": ""
+        }
+      ],
+      "portfolio": [
+        {
+          "title": "Notebook Central Asia",
+          "url": "https://drive.google.com/file/d/1ZnEwMChv6VGKc0AeKri_U9RsoUGvO-x4/view",
+          "preview_image": "https://first.image.firstinspireskz.org/archive-22801-2023-portfolio-central-asia.jpg",
+          "description": ""
+        },
+        {
+          "title": "Notebook Australia Part 1",
+          "url": "https://drive.google.com/file/d/1V9-EPoWYfTsTyj7MCk8OaXy7fA996Q91/view",
+          "preview_image": "https://first.image.firstinspireskz.org/archive-22801-2023-portfolio-australia-1.jpg",
+          "description": ""
+        },
+        {
+          "title": "Notebook Australia Part 2",
+          "url": "https://drive.google.com/file/d/1F-dT65Yao0PucmWmrzZWZ3xUA750JjES/view",
+          "preview_image": "https://first.image.firstinspireskz.org/archive-22801-2023-portfolio-australia-2.jpg",
+          "description": ""
+        }
+      ],
+      "website": [
+        {
+          "title": "2023 boltm3 website",
+          "preview_image": "https://first.image.firstinspireskz.org/archive-22801-website.jpg",
+          "url": "https://web.archive.org/web/20250208114007/https://boltm3-4240d0ff1ae7.herokuapp.com/",
+          "description": "Жобаларымыз бен жарыстарымыз туралы жаңалықтарды біліңіз!"
+        }
+      ]
+    }
+  ]
+  

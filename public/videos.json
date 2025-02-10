@@ -1,0 +1,40 @@
+[
+    {
+        "category": "Robot Building",
+        "videos": [
+            {
+                "title": "Robot-Building Basics",
+                "url": "https://www.youtube.com/watch?v=rE2yYXQt5Yo"
+            },
+            {
+                "title": "Designing Your Robot",
+                "url": "https://www.youtube.com/watch?v=eaFgwdc21zE"
+            },
+            {
+                "title": "Picking Out Parts For Your Robot",
+                "url": "https://www.youtube.com/watch?v=PzLmOvyftXY"
+            },
+            {
+                "title": "Building the Robot",
+                "url": "https://www.youtube.com/watch?v=_WOz7vGwVGk"
+            }
+        ]
+    },
+    {
+        "category": "FTC Programming & Control",
+        "videos": [
+            {
+                "title": "Getting Started in CAD",
+                "url": "https://www.youtube.com/watch?v=UTjSmSta2Ak"
+            },
+            {
+                "title": "Components of a Driver Station",
+                "url": "https://www.youtube.com/watch?v=INhN_RWBGNc"
+            },
+            {
+                "title": "Getting Started in FTC Programming",
+                "url": "https://www.youtube.com/watch?v=ZrcM721Y2Y4"
+            }
+        ]
+    }
+]

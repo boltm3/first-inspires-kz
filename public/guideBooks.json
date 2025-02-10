@@ -1,0 +1,39 @@
+[
+    {
+      "title": "Shabyttan in Tech",
+      "description": "бұл FTC техникалық аспектілеріне арналған журнал, онда роботты құрастыру, кодтау және басқару туралы ақпарат беріледі.  ",
+      "preview_picture": "https://first.image.firstinspireskz.org/guide-shabyttan.png",
+      "url_download": "U2FsdGVkX19UbhXSpSL3fiwks+IwAGmGF9TDdZ3oIQx4pzj4GwPWy0Nwe6m0BJSu40MngEsRlp6R6njHpf0d4M4m1XcgoLKSaXJkUWBGBuDn5fHHXTRCz58x+YoHbyvo"
+    },
+    {
+      "title": "Robotics Docs in Russian",
+      "description": "",
+      "preview_picture": "https://first.image.firstinspireskz.org/guide-revduo.png",
+      "url":"https://bolt-m3.gitbook.io/copy-of-bolt.m3-rev-duo-build-system-introduction"
+    },
+    {
+      "title": "Robotics Docs in Kazakh",
+      "description": "",
+      "preview_picture": "https://first.image.firstinspireskz.org/guide-revduo.png",
+      "url": "https://bolt-m3.gitbook.io/copy-of-copy-of-bolt.m3-rev-duo-build-system-intro"
+    },
+    {
+      "title": "Guide for newbies in Russian",
+      "description": "",
+      "preview_picture": "https://first.image.firstinspireskz.org/guide-newbies.jpg",
+      "url": "https://drive.google.com/file/d/1QokCfPb_5hDt6_r_wopLTkDM2iDDSL_M/view"
+    },
+    {
+      "title": "Dean's List Award Guidance in Russian",
+      "description": "",
+      "preview_picture": "https://first.image.firstinspireskz.org/guide-deans.jpg",
+      "url": "https://drive.google.com/file/d/1e9-FPon05YFu_xk1qGYc25XJE59PLGoi/view"
+    },
+    {
+      "title":"Game manual 0 in russian",
+      "description":"from pid",
+      "preview_picture":"https://first.image.firstinspireskz.org/guide-gm0-pid-ru.jpg",
+      "url":"https://drive.google.com/file/d/1MGiJ9stBAG4f--mNi-nxTCJKcqg-oTyb/view"
+    }
+  ]
+  

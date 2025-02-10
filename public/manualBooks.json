@@ -1,0 +1,279 @@
+[
+    {
+      "season": "2024-2025",
+      "title": "Into the Deep",
+      "description": "Қызықты су асты зерттеу тақырыбындағы робототехника жарысы.",
+      "preview_picture": "https://first.image.firstinspireskz.org/manual-2025-deepintothesea.webp",
+      "manuals": [
+        {
+          "title": "Competition Manual",
+          "description": "The official guide for the 2024-2025 Into the Deep challenge.",
+          "preview_picture": "https://first.image.firstinspireskz.org/manual-2024-competition-ru.jpg",
+          "download_link": "https://resources.firstrobotics.ru/competition-manual.pdf"
+        }
+      ]
+    },
+    {
+      "season": "2023-2024",
+      "title": "Center Stage",
+      "description": "Робототехника бұл көрсетілімге негізделген жарыста басты орын алады.",
+      "preview_picture": "https://ftchistory.dogbuilt.net/assets/seasons/2023-2024/logo.png",
+      "manuals": [
+        {
+          "title": "One Page Description",
+          "description": "2023-2024 Орталық Сцена жарысының қысқаша сипаттамасы.",
+          "preview_picture": "https://first.image.firstinspireskz.org/one-page-description_2023.jpg",
+          "download_link": "https://media.githubusercontent.com/media/abidingabi/ftc-history/main/assets/seasons/2023-2024/one-page-description.pdf"
+        },
+        {
+          "title": "Game Animation",
+          "description": "Ойынды түсіндіретін ресми анимация.",
+          "preview_picture": "https://first.image.firstinspireskz.org/manual-2023-animation.jpg",
+          "download_link": "https://www.youtube.com/watch?v=6e-5Uo1dRic&t=30s"
+        },
+        {
+          "title": "Game Manual 1 Traditional Events",
+          "description": " іс-шаралар үшін ережелер мен нұсқаулар.",
+          "preview_picture": "https://first.image.firstinspireskz.org/game-manual-part-1-traditional-events_2023.jpg",
+          "download_link": "https://media.githubusercontent.com/media/abidingabi/ftc-history/main/assets/seasons/2023-2024/game-manual-part-1-traditional-events.pdf"
+        },
+        {
+          "title": "Game Manual 2 Traditional Events",
+          "description": " іс-шаралар үшін жетілдірілген ережелер.",
+          "preview_picture": "https://first.image.firstinspireskz.org/game-manual-part-2-traditional-events_2023.jpg",
+          "download_link": "https://media.githubusercontent.com/media/abidingabi/ftc-history/main/assets/seasons/2023-2024/game-manual-part-2-traditional-events.pdf"
+        },
+        {
+          "title": "Game Manual 1 Remote Events",
+          "description": "Қашықтан өткізілетін жарыс форматының ережелері.",
+          "preview_picture": "https://first.image.firstinspireskz.org/game-manual-part-1-remote-events_2023.jpg",
+          "download_link": "https://media.githubusercontent.com/media/abidingabi/ftc-history/main/assets/seasons/2023-2024/game-manual-part-1-remote-events.pdf"
+        },
+        {
+          "title": "Game Manual 2 Remote Events",
+          "description": "Қашықтан өткізілетін іс-шаралар үшін қосымша ережелер.",
+          "preview_picture": "https://first.image.firstinspireskz.org/game-manual-part-2-remote-events_2023.jpg",
+          "download_link": "https://media.githubusercontent.com/media/abidingabi/ftc-history/main/assets/seasons/2023-2024/game-manual-part-2-remote-events.pdf"
+        },
+        {
+          "title": "Traditional Field CAD",
+          "description": " алаңның 3D моделі.",
+          "preview_picture": "https://first.image.firstinspireskz.org/manual-2023-traditional-cad.jpg",
+          "download_link": "https://cad.onshape.com/documents/1481e66edd782af5f97a58cf/"
+        },
+        {
+          "title": "Remote Field CAD",
+          "description": "Қашықтан басқарылатын алаңның 3D моделі.",
+          "preview_picture": "https://first.image.firstinspireskz.org/manual-2023-remote-cad.jpg",
+          "download_link": "https://cad.onshape.com/documents/b9271f0f33ff154a94a72a19/"
+        },
+        {
+          "title": "Logos (zip)",
+          "description": "Орталық Сцена маусымының ресми логолары.",
+          "preview_picture": "https://ftchistory.dogbuilt.net/assets/seasons/2023-2024/logo.png",
+          "download_link": "https://media.githubusercontent.com/media/abidingabi/ftc-history/main/assets/seasons/2023-2024/logos.zip"
+        },
+        {
+          "title": "Game Manual in Russian Part 1",
+          "description": "",
+          "preview_picture": "https://first.image.firstinspireskz.org/manual-2023-manualru1.jpg",
+          "download_link": "https://drive.google.com/file/d/1ruaOPG6cI-17zPAKWkxMU_6-KYG6O84o/view"
+        },
+        {
+          "title": "Game Manual in Russian Part 2",
+          "description": "",
+          "preview_picture": "https://first.image.firstinspireskz.org/manual-2023-manualru2.jpg",
+          "download_link": "https://drive.google.com/file/d/1RPmVGpS-UrwRDhgA0uBJswzLSDTUEDUD/view"
+        }
+      ]
+    },
+    {
+      "season": "2022-2023",
+      "title": "Power Play",
+      "description": "Қуат пен дәлдікке негізделген стратегиялық робототехника жарысы.",
+      "preview_picture": "https://ftchistory.dogbuilt.net/assets/seasons/2022-2023/logo.png",
+      "manuals": [
+        {
+          "title": "One Page Description",
+          "description": "A brief overview of the Power Play challenge.",
+          "preview_picture": "https://first.image.firstinspireskz.org/one-page-description_2022.jpg",
+          "download_link": "https://media.githubusercontent.com/media/abidingabi/ftc-history/main/assets/seasons/2022-2023/one-page-description.pdf"
+        },
+        {
+          "title": "Game Animation",
+          "description": "An official animation explaining the Power Play game.",
+          "preview_picture": "https://first.image.firstinspireskz.org/manual-2022-animation.jpg",
+          "download_link": "https://www.youtube.com/watch?v=HsitvZ0JaDc&t=32s"
+        },
+        {
+          "title": "Game Manual 1 Traditional Events",
+          "description": "Rules and guidelines for traditional Power Play events.",
+          "preview_picture": "https://first.image.firstinspireskz.org/game-manual-part-1-traditional-events_2022.jpg",
+          "download_link": "https://media.githubusercontent.com/media/abidingabi/ftc-history/main/assets/seasons/2022-2023/game-manual-part-1-traditional-events.pdf"
+        },
+        {
+          "title": "Game Manual 2 Traditional Events",
+          "description": "Additional rules for traditional Power Play events.",
+          "preview_picture": "https://first.image.firstinspireskz.org/game-manual-part-2-traditional-events_2022.jpg",
+          "download_link": "https://media.githubusercontent.com/media/abidingabi/ftc-history/main/assets/seasons/2022-2023/game-manual-part-2-traditional-events.pdf"
+        },
+        {
+          "title": "Game Manual 1 Remote Events",
+          "description": "Rules for remote Power Play competitions.",
+          "preview_picture": "https://first.image.firstinspireskz.org/game-manual-part-1-remote-events_2022.jpg",
+          "download_link": "https://media.githubusercontent.com/media/abidingabi/ftc-history/main/assets/seasons/2022-2023/game-manual-part-1-remote-events.pdf"
+        },
+        {
+          "title": "Game Manual 2 Remote Events",
+          "description": "Additional rules for remote Power Play competitions.",
+          "preview_picture": "https://first.image.firstinspireskz.org/game-manual-part-2-remote-events_2022.jpg",
+          "download_link": "https://media.githubusercontent.com/media/abidingabi/ftc-history/main/assets/seasons/2022-2023/game-manual-part-2-remote-events.pdf"
+        },
+        {
+          "title": "Traditional Field CAD",
+          "description": "CAD model for the traditional Power Play field.",
+          "preview_picture": "https://first.image.firstinspireskz.org/",
+          "download_link": "https://cad.onshape.com/documents/dbfcc55c5a3ff67cd0ea1671/"
+        },
+        {
+          "title": "Remote Field CAD",
+          "description": "CAD model for the remote Power Play field.",
+          "preview_picture": "https://first.image.firstinspireskz.org/",
+          "download_link": "https://cad.onshape.com/documents/54550580c0842532c1de0f32/"
+        },
+        {
+          "title": "Logos (ZIP)",
+          "description": "A collection of Power Play logos.",
+          "preview_picture": "https://first.image.firstinspireskz.org/",
+          "download_link": "https://media.githubusercontent.com/media/abidingabi/ftc-history/main/assets/seasons/2022-2023/logos.zip"
+        }
+      ]
+    }
+    ,
+    {
+      "season": "2021-2022",
+      "title": "Freight Frenzy",
+      "description": "Teams navigate a complex field to transport freight efficiently.",
+      "preview_picture": "https://ftchistory.dogbuilt.net/assets/seasons/2021-2022/logo.png",
+      "manuals": [
+        {
+          "title": "One Page Description",
+          "description": "A quick overview of the Freight Frenzy challenge.",
+          "preview_picture": "https://first.image.firstinspireskz.org/one-page-description_2021.jpg",
+          "download_link": "https://media.githubusercontent.com/media/abidingabi/ftc-history/main/assets/seasons/2021-2022/one-page-description.pdf"
+        },
+        {
+          "title": "Game Animation",
+          "description": "A visual representation of the game rules and objectives.",
+          "preview_picture": "https://first.image.firstinspireskz.org/",
+          "download_link": "https://www.youtube.com/watch?v=I6lX12idAf8&t=50s"
+        },
+        {
+          "title": "Game Manual 1 Traditional Events",
+          "description": "Rules and guidelines for traditional event formats.",
+          "preview_picture": "https://first.image.firstinspireskz.org/game-manual-part-1-traditional-events_2021.jpg",
+          "download_link": "https://media.githubusercontent.com/media/abidingabi/ftc-history/main/assets/seasons/2021-2022/game-manual-part-1-traditional-events.pdf"
+        },
+        {
+          "title": "Game Manual 2 Traditional Events",
+          "description": "Additional details for traditional event gameplay.",
+          "preview_picture": "https://first.image.firstinspireskz.org/game-manual-part-2-traditional-events_2021.jpg",
+          "download_link": "https://media.githubusercontent.com/media/abidingabi/ftc-history/main/assets/seasons/2021-2022/game-manual-part-2-traditional-events.pdf"
+        },
+        {
+          "title": "Game Manual 1 Remote Events",
+          "description": "Guidelines for participating in remote events.",
+          "preview_picture": "https://first.image.firstinspireskz.org/game-manual-part-1-remote-events_2021.jpg",
+          "download_link": "https://media.githubusercontent.com/media/abidingabi/ftc-history/main/assets/seasons/2021-2022/game-manual-part-1-remote-events.pdf"
+        },
+        {
+          "title": "Game Manual 2 Remote Events",
+          "description": "Expanded rules for remote event participation.",
+          "preview_picture": "https://first.image.firstinspireskz.org/game-manual-part-2-remote-events_2021.jpg",
+          "download_link": "https://media.githubusercontent.com/media/abidingabi/ftc-history/main/assets/seasons/2021-2022/game-manual-part-2-remote-events.pdf"
+        },
+        {
+          "title": "Traditional Field CAD",
+          "description": "3D model of the traditional game field.",
+          "preview_picture": "https://first.image.firstinspireskz.org/",
+          "download_link": "https://cad.onshape.com/documents/46f006d2da89b4dd34e44f32/w/0a5eaac1fa447347fc76c86b/e/7ce964afec73a45f76d7caf6"
+        },
+        {
+          "title": "Remote Field CAD",
+          "description": "3D model of the remote game field.",
+          "preview_picture": "https://first.image.firstinspireskz.org/",
+          "download_link": "https://cad.onshape.com/documents/14da89df8e1df60995d9e512/w/81bb9e0f82d3e4ed4a1ebee0/e/c7db338fe15530449517d898"
+        },
+        {
+          "title": "Logos (ZIP)",
+          "description": "Official Freight Frenzy branding assets.",
+          "preview_picture": "https://first.image.firstinspireskz.org/",
+          "download_link": "https://media.githubusercontent.com/media/abidingabi/ftc-history/main/assets/seasons/2021-2022/logos.zip"
+        }
+      ]
+    }
+    ,
+    {
+      "season": "2020-2021",
+      "title": "Ultimate Goal",
+      "description": "An exciting robotics challenge inspired by target shooting and strategy.",
+      "preview_picture": "https://ftchistory.dogbuilt.net/assets/seasons/2020-2021/logo.png",
+      "manuals": [
+        {
+          "title": "One Page Description",
+          "description": "A brief summary of the Ultimate Goal challenge.",
+          "preview_picture": "https://first.image.firstinspireskz.org/one-page-description_2020.jpg",
+          "download_link": "https://media.githubusercontent.com/media/abidingabi/ftc-history/main/assets/seasons/2020-2021/one-page-description.pdf"
+        },
+        {
+          "title": "Game Animation",
+          "description": "A brief summary of the Ultimate Goal challenge.",
+          "preview_picture": "https://first.image.firstinspireskz.org/",
+          "download_link": "https://www.youtube.com/watch?v=H3V3A7CgwPU&t=158s"
+        },
+        {
+          "title": "Game Manual 1 Traditional Events",
+          "description": "Rules and guidelines for traditional events.",
+          "preview_picture": "https://first.image.firstinspireskz.org/game-manual-part-1-traditional-events_2020.jpg",
+          "download_link": "https://media.githubusercontent.com/media/abidingabi/ftc-history/main/assets/seasons/2020-2021/game-manual-part-1-traditional-events.pdf"
+        },
+        {
+          "title": "Game Manual 2 Traditional Events",
+          "description": "Advanced rules for traditional competitions.",
+          "preview_picture": "https://first.image.firstinspireskz.org/game-manual-part-2-traditional-events_2020.jpg",
+          "download_link": "https://media.githubusercontent.com/media/abidingabi/ftc-history/main/assets/seasons/2020-2021/game-manual-part-2-traditional-events.pdf"
+        },
+        {
+          "title": "Game Manual 1 Remote Events",
+          "description": "Rules and guidelines for remote events.",
+          "preview_picture": "https://first.image.firstinspireskz.org/game-manual-part-1-remote-events_2020.jpg",
+          "download_link": "https://media.githubusercontent.com/media/abidingabi/ftc-history/main/assets/seasons/2020-2021/game-manual-part-1-remote-events.pdf"
+        },
+        {
+          "title": "Game Manual 2 Remote Events",
+          "description": "Advanced rules for remote competitions.",
+          "preview_picture": "https://first.image.firstinspireskz.org/game-manual-part-2-remote-events_2020.jpg",
+          "download_link": "https://media.githubusercontent.com/media/abidingabi/ftc-history/main/assets/seasons/2020-2021/game-manual-part-2-remote-events.pdf"
+        },
+        {
+          "title": "Traditional Field CAD",
+          "description": "CAD model for the traditional competition field.",
+          "preview_picture": "https://first.image.firstinspireskz.org/",
+          "download_link": "https://cad.onshape.com/documents/37938caa240d1600427b267a/w/866b38e386852939acbac7ca/e/bf6d54555521d24f3a91ae21"
+        },
+        {
+          "title": "Remote Field CAD",
+          "description": "CAD model for the remote competition field.",
+          "preview_picture": "https://first.image.firstinspireskz.org/",
+          "download_link": "https://cad.onshape.com/documents/68244e0eceb9507b70698d23/w/c8449badadbb90d0b175cf9f/e/dac0b69c7eedbac5cd8c405e"
+        },
+        {
+          "title": "Logos (zip)",
+          "description": "Official logos for Ultimate Goal.",
+          "preview_picture": "https://first.image.firstinspireskz.org",
+          "download_link": "https://media.githubusercontent.com/media/abidingabi/ftc-history/main/assets/seasons/2020-2021/logos.zip"
+        }
+      ]
+    }
+    
+]

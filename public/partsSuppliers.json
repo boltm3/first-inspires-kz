@@ -1,0 +1,26 @@
+[
+  {
+    "name": "GoBilda",
+    "link": "https://www.gobilda.com",
+    "description": "GoBilda робототехника жарыстарына және басқа да STEM жобаларына арналған моторлар, дөңгелектер және құрылымдық компоненттер сияқты әртүрлі робототехника бөлшектерін ұсынады.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKwo-BPvu0M_89fSJzA77zRZYa-dVcoHfbSQ&s"
+  },
+  {
+    "name": "AndyMark",
+    "link": "https://www.andymark.com",
+    "description": "AndyMark – робототехника жинақтарын, моторларды, сенсорларды және басқа да бөлшектерді жеткізетін жетекші компания. Олар FIRST Robotics командалары мен робототехника әуесқойларына арналған компоненттерді ұсынады.",
+    "image": "https://cdn-blog.adafruit.com/uploads/2024/09/AM-Logo-1.jpg"
+  },
+  {
+    "name": "Rev",
+    "link": "https://www.revrobotics.com",
+    "description": "Rev Robotics – робототехника компоненттерін, соның ішінде қозғалтқыштар, сенсорлар, драйверлер мен басқа да қажетті бөлшектерді ұсынатын компания.",
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_lN5MwLH854A_IFnE-EnJ_tHum-B02NUc2pA5DG2o-VRA=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "name": "Ozon",
+    "link": "https://www.ozon.ru",
+    "description": "Ozon – Ресейдегі ірі онлайн дүкен, ол робототехникаға қажетті бөлшектерді, құралдарды және қосымша өнімдерді ұсынады.",
+    "image": "https://www.shoes-report.ru/upload/resize_cache/webp/iblock/002/5qj5sbg33on8tfchbhgbyv9fxuy44dtm.webp"
+  }
+]
